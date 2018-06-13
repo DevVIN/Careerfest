@@ -1,1 +1,17 @@
 
+apache-tomcat-8.0.45/
+Servers/
+Careerfest/Careerfest-Web/.settings/
+RemoteSystemsTempFiles/
+.metadata/
+Careerfest/.settings/
+Careerfest/Careerfest-Service/target/
+Careerfest/Careerfest-Service/.settings/
+Careerfest/Careerfest-Repository/.settings/
+Careerfest/.project
+Careerfest/Careerfest-Repository/.project
+Careerfest/Careerfest-Repository/.classpath
+Careerfest/Careerfest-Service/.project
+Careerfest/Careerfest-Service/.classpath
+Careerfest/Careerfest-Web/.classpath
+Careerfest/Careerfest-Web/.project
