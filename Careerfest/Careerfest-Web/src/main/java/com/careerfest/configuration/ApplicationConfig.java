@@ -20,10 +20,10 @@ import org.springframework.web.servlet.view.tiles3.TilesViewResolver;
 @ComponentScan(basePackages = "com.careerfest")
 public class ApplicationConfig extends WebMvcConfigurerAdapter{
 	
-	/*@Override
+	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
-	}*/
+	}
 
 	/*@Bean
 	public ViewResolver viewResolver() {

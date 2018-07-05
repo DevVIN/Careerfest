@@ -55,6 +55,7 @@
 									<div class="col-md-7 col-sm-10 col-xs-12 no-padding alt-font slider-content sm-no-margin-top">
 										<div class="title-extra-large-6 line-height-75 font-weight-700 text-light-purple-blue slider-title margin-seven-bottom tz-text letter-spacing-minus-1" id="tz-slider-text1">UPDATED RESUME ENSURES YOU FIND BETTER</div>
 										<div class="btn-dual">
+											<a href="registration.do">For Registration</a><br>
 											<a class="btn btn-medium propClone btn-circle bg-middle-light-gray text-white inner-link" href="#feature-section31"><span class="tz-text" id="tz-slider-text6">READ MORE</span><i class="fa fa-angle-right icon-extra-small tz-icon-color" id="tz-icon-5"></i></a>
 										</div>
 									</div>
